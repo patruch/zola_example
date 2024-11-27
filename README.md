@@ -13,7 +13,7 @@ Voir <https://www.getzola.org/documentation/getting-started/directory-structure/
 
 ## Résultat
 
-Voir <https://dalf.github.io/zola_example/>
+Voir <https://patruch.github.io/zola_example/>
 
 ## Ajout d'une entrée
 
