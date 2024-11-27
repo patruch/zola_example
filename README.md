@@ -4,7 +4,7 @@ Utilise [Zola](https://www.getzola.org/).
 
 * [Procédure d'installation](https://www.getzola.org/documentation/getting-started/installation/)
 * Procédure d'installation sur les PC à la HEG:
-    * Démarrer powershell
+    * Démarrer powershell 
     * Exécuter `.\install.ps1`
 
 ## Structure
